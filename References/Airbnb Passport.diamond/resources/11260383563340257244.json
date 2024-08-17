@@ -1,0 +1,110 @@
+{
+  "iPhone10,1" : {
+    "device" : "iPhone 8",
+    "notch" : 0
+  },
+  "iPhone10,2" : {
+    "device" : "iPhone 8 Plus",
+    "notch" : 0
+  },
+  "iPhone10,3" : {
+    "device" : "iPhone X",
+    "notch" : 208
+  },
+  "iPhone10,4" : {
+    "device" : "iPhone 8",
+    "notch" : 0
+  },
+  "iPhone10,5" : {
+    "device" : "iPhone 8 Plus",
+    "notch" : 0
+  },
+  "iPhone10,6" : {
+    "device" : "iPhone X",
+    "notch" : 208
+  },
+  "iPhone11,2" : {
+    "device" : "iPhone XS",
+    "notch" : 210
+  },
+  "iPhone11,4" : {
+    "device" : "iPhone XS Max",
+    "notch" : 210
+  },
+  "iPhone11,6" : {
+    "device" : "iPhone XS Max",
+    "notch" : 210
+  },
+  "iPhone11,8" : {
+    "device" : "iPhone XR",
+    "notch" : 231
+  },
+  "iPhone12,1" : {
+    "device" : "iPhone 11",
+    "notch" : 231
+  },
+  "iPhone12,3" : {
+    "device" : "iPhone 11 Pro",
+    "notch" : 210
+  },
+  "iPhone12,5" : {
+    "device" : "iPhone 11 Pro Max",
+    "notch" : 210
+  },
+  "iPhone12,8" : {
+    "device" : "iPhone SE 2nd Gen",
+    "notch" : 0
+  },
+  "iPhone13,1" : {
+    "device" : "iPhone 12 Mini",
+    "notch" : 217
+  },
+  "iPhone13,2" : {
+    "device" : "iPhone 12",
+    "notch" : 210
+  },
+  "iPhone13,3" : {
+    "device" : "iPhone 12 Pro",
+    "notch" : 210
+  },
+  "iPhone13,4" : {
+    "device" : "iPhone 12 Pro Max",
+    "notch" : 210
+  },
+  "iPhone14,2" : {
+    "device" : "iPhone 13 Pro",
+    "notch" : 162
+  },
+  "iPhone14,3" : {
+    "device" : "iPhone 13 Pro Max",
+    "notch" : 162
+  },
+  "iPhone14,4" : {
+    "device" : "iPhone 13 Mini",
+    "notch" : 174
+  },
+  "iPhone14,5" : {
+    "device" : "iPhone 13",
+    "notch" : 162
+  },
+  "iPhone14,6" : {
+    "device" : "iPhone SE 3rd Gen",
+    "notch" : 0
+  },
+  "iPhone14,7" : {
+    "device" : "iPhone 14",
+    "notch" : 162
+  },
+  "iPhone14,8" : {
+    "device" : "iPhone 14 Plus",
+    "notch" : 162
+  },
+  "iPhone15,2" : {
+    "device" : "iPhone 14 Pro",
+    "notch" : 126
+  },
+  "iPhone15,3" : {
+    "device" : "iPhone 14 Pro Max",
+    "notch" : 126
+  }
+}
